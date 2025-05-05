@@ -1,0 +1,56 @@
+body{
+background-color: #fff000;
+color: #00008b;
+text-align: center;
+}
+
+.sign-box{
+item-alig: center;
+    background: white;
+    width: 350px;
+    position: absolute;
+    height: 390px;
+}
+.sign-box h1{
+ 
+    margin-top: 0px;
+    width: 350px;
+    height: 64px;
+    background: blueviolet;
+    font-size: 34px;
+    color: aliceblue;
+    text-align: center;
+}
+label{
+    font-size: 19px;
+    color: black;
+}
+input{
+    width: 90%;
+    height: 30px;
+}
+
+
+
+
+
+
+.sign-box h1{
+ item-align: center;
+    margin-top: 0px;
+    width: 350px;
+    height: 64px;
+    background: rgb(9, 1, 156);
+    font-size: 34px;
+border-radius: 5px;
+    color: aliceblue;
+    text-align: center;
+}
+label{
+    font-size: 19px;
+    color: black;
+}
+input{
+    width: 90%;
+    height: 30px;
+}
